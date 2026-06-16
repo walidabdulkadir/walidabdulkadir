@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Walid%20Abdulkadir&fontSize=50&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Walid%20Abdulkadir&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=FFFFFF" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Walid Abdulkadir</h1>
 
@@ -53,18 +53,19 @@ Full-stack web application for managing students.
 
 - Student Registration
 - CRUD Operations
-  ###Future Update
+  
+### Features Update
 - Search & Filter
 - Attendance Tracking
 - Grade Management
 
 ### Screenshot
 
-<img src="YOUR_SCREENSHOT_URL" width="800"/>
+<img src="./screenshots/sms.png" width="800"/>
 
 ### Links
 
-📂 Repository: https://github.com/walidabdulkadir/student-management-system
+📂 Repository:[ https://github.com/walidabdulkadir/student-management-system](https://github.com/walidabdulkadir/Student-Managment-System)
 
 ---
 
@@ -81,11 +82,11 @@ Real-time weather dashboard using Weather APIs.
 
 ### Screenshot
 
-<img src="YOUR_SCREENSHOT_URL" width="800"/>
+<img src="./screenshots/weather.png" width="800"/>
 
 ### Links
 
-📂 Repository: https://github.com/walidabdulkadir/weather-app
+📂 Repository: [https://github.com/walidabdulkadir/weather-app](https://github.com/walidabdulkadir/weather_app)
 
 ---
 
@@ -102,20 +103,20 @@ Personal portfolio showcasing skills, projects, and achievements.
 
 ### Screenshot
 
-<img src="YOUR_SCREENSHOT_URL" width="800"/>
+<img src="./screenshots/portfolio.png" width="800"/>
 
 ### Links
 
-🔗 Live Demo: https://your-demo-link.com
+🔗 Live Demo: [https://walid-abdulkadir-portfolio.vercel.app/](https://walid-abdulkadir-portfolio.vercel.app/)
 
-📂 Repository: https://github.com/walidabdulkadir/portfolio
+📂 Repository: [https://github.com/walidabdulkadir/portfolio](https://github.com/walidabdulkadir/My-portfolio)
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=walidabdulkadir&show_icons=true&theme=tokyonight" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidabdulkadir&layout=compact&theme=tokyonight" />
 </p>
 
@@ -132,7 +133,7 @@ Personal portfolio showcasing skills, projects, and achievements.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=walidabdulkadir&theme=tokyo-night" />
 </p>
 
 ---
@@ -161,7 +162,7 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: walidabdulkadir
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
@@ -177,7 +178,7 @@ Then display it:
 ```md
 ## 🐍 Contribution Snake
 
-![Snake Animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/walidabdulkadir/walidabdulkadir/blob/output/github-contribution-grid-snake.svg)
 ```
 
 ---
@@ -185,11 +186,11 @@ Then display it:
 # 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/walidabdulkadir">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/walid-abdulkadir-70529a2a2)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
