@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Walid%20Abdulkadir&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=FFFFFF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,50:0072FF,100:00FFCC&text=Walid%20Abdulkadir&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=FFFFFF" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Walid Abdulkadir</h1>
 
