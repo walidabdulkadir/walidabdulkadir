@@ -138,50 +138,9 @@ Personal portfolio showcasing skills, projects, and achievements.
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-Add this workflow:
-
-Create:
-
-.github/workflows/snake.yml
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: walidabdulkadir
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then display it:
-
-```md
 ## 🐍 Contribution Snake
 
-![Snake Animation](https://github.com/walidabdulkadir/walidabdulkadir/blob/output/github-contribution-grid-snake.svg)
-```
-
----
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 # 🤝 Connect With Me
 
