@@ -27,7 +27,7 @@ Passionate about building modern web applications, solving real-world problems, 
 
 ### Frontend
 
-![HTML5](https://skillicons.dev/icons?i=html,css,js,react,tailwind)
+![HTML5](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)
 
 ### Backend
 
@@ -47,12 +47,13 @@ Passionate about building modern web applications, solving real-world problems, 
 
 ## 🎓 Student Management System
 
-Full-stack web application for managing students, courses, grades, and attendance.
+Full-stack web application for managing students.
 
 ### Features
 
 - Student Registration
 - CRUD Operations
+  ###Future Update
 - Search & Filter
 - Attendance Tracking
 - Grade Management
@@ -63,9 +64,7 @@ Full-stack web application for managing students, courses, grades, and attendanc
 
 ### Links
 
-🔗 Live Demo: https://your-demo-link.com
-
-📂 Repository: https://github.com/YOUR_USERNAME/student-management-system
+📂 Repository: https://github.com/walidabdulkadir/student-management-system
 
 ---
 
@@ -86,9 +85,7 @@ Real-time weather dashboard using Weather APIs.
 
 ### Links
 
-🔗 Live Demo: https://your-demo-link.com
-
-📂 Repository: https://github.com/YOUR_USERNAME/weather-app
+📂 Repository: https://github.com/walidabdulkadir/weather-app
 
 ---
 
@@ -111,7 +108,7 @@ Personal portfolio showcasing skills, projects, and achievements.
 
 🔗 Live Demo: https://your-demo-link.com
 
-📂 Repository: https://github.com/YOUR_USERNAME/portfolio
+📂 Repository: https://github.com/walidabdulkadir/portfolio
 
 ---
 
@@ -119,7 +116,7 @@ Personal portfolio showcasing skills, projects, and achievements.
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidabdulkadir&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -127,7 +124,7 @@ Personal portfolio showcasing skills, projects, and achievements.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=walidabdulkadir&theme=tokyonight" />
 </p>
 
 ---
