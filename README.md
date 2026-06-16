@@ -45,6 +45,30 @@ Passionate about building modern web applications, solving real-world problems, 
 
 # 📌 Featured Projects
 
+## 💼 Portfolio Website
+
+Personal portfolio showcasing skills, projects, and achievements.
+
+### Features
+
+- Responsive UI
+- Projects Showcase
+- Resume Download
+- Contact Form
+
+### Screenshot
+
+<img src="./screenshots/portfolio.png" width="800"/>
+
+### Links
+
+🔗 Live Demo: [https://walid-abdulkadir-portfolio.vercel.app/](https://walid-abdulkadir-portfolio.vercel.app/)
+
+📂 Repository: [https://github.com/walidabdulkadir/portfolio](https://github.com/walidabdulkadir/My-portfolio)
+
+---
+
+
 ## 🎓 Student Management System
 
 Full-stack web application for managing students.
@@ -90,28 +114,6 @@ Real-time weather dashboard using Weather APIs.
 
 ---
 
-## 💼 Portfolio Website
-
-Personal portfolio showcasing skills, projects, and achievements.
-
-### Features
-
-- Responsive UI
-- Projects Showcase
-- Resume Download
-- Contact Form
-
-### Screenshot
-
-<img src="./screenshots/portfolio.png" width="800"/>
-
-### Links
-
-🔗 Live Demo: [https://walid-abdulkadir-portfolio.vercel.app/](https://walid-abdulkadir-portfolio.vercel.app/)
-
-📂 Repository: [https://github.com/walidabdulkadir/portfolio](https://github.com/walidabdulkadir/My-portfolio)
-
----
 
 # 📊 GitHub Statistics
 
