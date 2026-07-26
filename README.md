@@ -128,7 +128,7 @@ Real-time weather dashboard using Weather APIs.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/walid-abdulkadir-70529a2a2)">
+<a href="[https://www.linkedin.com/in/walid-abdulkadir-70529a2a2?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://linkedin.com/in/walid-abdulkadir-70529a2a2)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
