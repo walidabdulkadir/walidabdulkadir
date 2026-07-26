@@ -111,17 +111,6 @@ Real-time weather dashboard using Weather APIs.
 ### Links
 
 📂 Repository: [https://github.com/walidabdulkadir/weather-app](https://github.com/walidabdulkadir/weather_app)
-
----
-
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=walidabdulkadir&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidabdulkadir&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -131,18 +120,6 @@ Real-time weather dashboard using Weather APIs.
 </p>
 
 ---
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=walidabdulkadir&theme=tokyo-night" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/walidabdulkadir/walidabdulkadir/blob/output/github-contribution-grid-snake.svg)
 
 # 🤝 Connect With Me
 
